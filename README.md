@@ -1,2 +1,1 @@
-keeeenyyyyy
-[![zanejar's 42 stats](https://badge.mediaplus.ma/levi/zanejar)](https://github.com/oakoudad/badge42)
+[![zanejar's 42 stats](https://badge.mediaplus.ma/binary/zanejar)](https://github.com/oakoudad/badge42)
